@@ -1,0 +1,24 @@
+{
+  "name": "reason-web-starterkit",
+  "version": "0.1.0",
+  "description": "Start writing your web applications using reason+bucklescript",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vramana/reason-web-starterkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vramana/reason-web-starterkit/issues"
+  },
+  "homepage": "https://github.com/vramana/reason-web-starterkit#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "webpack": "^2.1.0-beta.25",
+    "webpack-dev-middleware": "^1.8.4"
+  }
+}
