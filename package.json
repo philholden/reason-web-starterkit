@@ -5,7 +5,8 @@
   "scripts": {
     "server": "node server.js",
     "install:sh": "bash scripts/install.sh",
-    "editor": "eval $(dependencyEnv) && $EDITOR .",
+    "editor": "eval $(dependencyEnv) && nopam && $EDITOR .",
+    "merlin": "eval $(dependencyEnv) && which ocamlmerlin",
     "rebel:sh": "eval $(dependencyEnv) && rebel",
     "rebel": "node scripts/watch.js"
   },
