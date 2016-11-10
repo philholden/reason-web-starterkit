@@ -4,7 +4,7 @@
   "description": "Start writing your web applications using reason+bucklescript",
   "scripts": {
     "server": "node server.js",
-    "install": "bash scripts/install.sh",
+    "install:sh": "bash scripts/install.sh",
     "editor": "eval $(dependencyEnv) && $EDITOR .",
     "rebel:sh": "eval $(dependencyEnv) && rebel",
     "rebel": "node scripts/watch.js"
