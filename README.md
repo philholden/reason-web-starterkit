@@ -2,7 +2,7 @@
 
 Start writing your web applications using reason+bucklescript
 
-Note: This is **doesn't** use [rebel](https://github.com/reasonml/rebel) directly. This uses prebuilt rebel binaries hosted at https://github.com/vramana/rebel-bin. This cuts down the amount of installation time by quite a bit.
+Note: This is **doesn't** use [rebel](https://github.com/reasonml/rebel) directly. This repo uses prebuilt rebel binaries hosted at https://github.com/vramana/rebel-bin. This cuts down the amount of installation time by quite a bit.
 
 ### Usage
 
