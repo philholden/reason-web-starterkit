@@ -7,7 +7,7 @@ Note: This is **doesn't** use [rebel](https://github.com/reasonml/rebel) directl
 ### Usage
 
 1. Git clone the repo
-2. Run `npm run install`
+2. Run `npm run install:sh`
 3. Run `npm run server` and `npm run rebel` in two different terminals
 4. Open http://localhost:3000
 
